@@ -17,7 +17,7 @@
 #define WINDOW_X     SDL_WINDOWPOS_UNDEFINED
 #define WINDOW_Y     SDL_WINDOWPOS_UNDEFINED
 
-#define SCALE 30
+#define SCALE 60
 #define RATIO_W 16
 #define RATIO_H 9
 #define WINDOW_W     SCALE*RATIO_W
