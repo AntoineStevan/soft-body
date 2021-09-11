@@ -18,8 +18,8 @@
 #define WINDOW_Y     SDL_WINDOWPOS_UNDEFINED
 
 #define SCALE 60
-#define RATIO_W 16
-#define RATIO_H 9
+#define RATIO_W 9
+#define RATIO_H 16
 #define WINDOW_W     SCALE*RATIO_W
 #define WINDOW_H     SCALE*RATIO_H
 #define WINDOW_FLAGS SDL_WINDOW_SHOWN
